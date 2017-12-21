@@ -3,4 +3,6 @@
 ### [Notebook2](http://htmlpreview.github.io/?https://github.com/lj015625/Predictive-Model/blob/master/Code/HW1_Notebook2.html)
 ### [Notebook3](http://htmlpreview.github.io/?https://github.com/lj015625/Predictive-Model/blob/master/Code/HW1_Notebook3.html)
 ### [Notebook4](http://htmlpreview.github.io/?https://github.com/lj015625/Predictive-Model/blob/master/Code/HW1_Notebook4.html)
-### [SafeDriver](http://htmlpreview.github.io/?https://github.com/lj015625/Predictive-Model/blob/master/Code/HW2_SafeDriver.html)
+### [Kaggle SafeDriver](http://htmlpreview.github.io/?https://github.com/lj015625/Predictive-Model/blob/master/Code/HW2_SafeDriver.html)
+### [Notebook5](http://htmlpreview.github.io/?https://github.com/lj015625/Predictive-Model/blob/master/Code/HW3_Part1.html)
+### [Notebook6](http://htmlpreview.github.io/?https://github.com/lj015625/Predictive-Model/blob/master/Code/HW3_Part3.html)
